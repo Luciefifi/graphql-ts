@@ -10,6 +10,10 @@ let people: {id:number ; name:string}[]=[
     {
         id:3,
         name:"Lexi"
+    },
+    {
+        id:4,
+        name:"Lexa"
     }
 
 ];
